@@ -1,0 +1,27 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`My Awesome App Test Suit > Should match Snapshot with RENDER 1`] = `
+<div>
+  <div>
+    <h1>
+      Jeanpol
+    </h1>
+    <h3>
+      Alvarado
+    </h3>
+    <p
+      class="mi-clase-favorita"
+    >
+      Zelda, Mario, Metroid
+    </p>
+    <p
+      style="color: red; background-color: black; font-weight: bold;"
+    >
+      Inactivo
+    </p>
+    <p>
+      {"street":"123 Main St","city":"Anytown","country":"USA"}
+    </p>
+  </div>
+</div>
+`;
